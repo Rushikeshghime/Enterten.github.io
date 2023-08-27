@@ -1,1 +1,1 @@
-https://github.com/Rushikeshghime/Movzilla.github.io.git/movix-eta.vercel.app
+https://movix-eta.vercel.app
